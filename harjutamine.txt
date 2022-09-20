@@ -1,1 +1,2 @@
 Github on interneti majutusteenuse platform tarkvaraarendajatele kus saavad programmeerijad koos töötada ja jagada oma koode. 
+Mina saaks seda kasutada tulevikus näiteks teiste tarkvaraarendajatega koos töötamiseks. Kindlasti mõnes töökohas kasutatakse seda et arendada mitmekesi.
