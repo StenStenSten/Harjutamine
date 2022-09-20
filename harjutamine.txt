@@ -1,1 +1,4 @@
 Github on interneti majutusteenuse platform tarkvaraarendajatele kus saavad programmeerijad koos töötada ja jagada oma koode. 
+Mina saaks seda kasutada tulevikus näiteks teiste tarkvaraarendajatega koos töötamiseks. Kindlasti mõnes töökohas kasutatakse seda et arendada mitmekesi.
+Github asutati aastal 2008,  Tom Preston-Werner, Chris Wanstrath, Scott Chacon, P. J. Hyett poolt. Githubi hakkas kasutama Microsoft aastal 2012 ja Microsoft oli üks 
+suurimaid kasutajaid.
